@@ -1,17 +1,16 @@
 <div class="container">
-	
 	<h5>by Emre Elagoz</h5>
 	<img src="/falan.svg" alt="emre" />
 	<div>
 		<a href="/https://www.trendyol.com/" target="_blank">
 			<img src="/Whatsapp.svg" alt="whatsapp" class="wp" />
 		</a>
-        <a href="/https://www.instagram.com/emreelagoz">
-            <img src="/Instagram.svg" alt="instagram" class="instagram"/>
-        </a>
-        <a href="https://outlook.live.com/owa/">
-        <img src="/Outlook.svg" alt="mail" class="mail">
-        </a>
+		<a href="/https://www.instagram.com/emreelagoz">
+			<img src="/Instagram.svg" alt="instagram" class="instagram" />
+		</a>
+		<a href="https://outlook.live.com/owa/">
+			<img src="/Outlook.svg" alt="mail" class="mail" />
+		</a>
 	</div>
 </div>
 
@@ -27,17 +26,16 @@
 		margin: auto;
 		color: rgb(0, 0, 0);
 	}
-
 	.wp {
 		width: 20px;
 		height: 20px;
 	}
-    .instagram{
-        width: 20px;
-        height:20px;
-    }
-    .mail{
-        width:20px;
-        height:20px;
-    }
+	.instagram {
+		width: 20px;
+		height: 20px;
+	}
+	.mail {
+		width: 20px;
+		height: 20px;
+	}
 </style>

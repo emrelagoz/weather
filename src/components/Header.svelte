@@ -23,6 +23,6 @@
 
 	.support {
 		color: rgb(17, 17, 17);
-        text-decoration: none;
+		text-decoration: none;
 	}
 </style>

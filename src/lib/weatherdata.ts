@@ -1,13 +1,13 @@
 
 export interface WeatherData {
     weather : Weather[];
-    main: Main;
-    wind: Wind;
+    main: TempInformation; // temp informations and humidity 
+    wind: Wind; // wind informations speed and degree
     id:number;
     name:string;
     }
     
-    interface Main {
+    interface TempInformation {
         temp: number;
         feels_like: number;
         temp_min: number;
